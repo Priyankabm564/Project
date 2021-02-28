@@ -3,11 +3,12 @@ body {
   background-color: lightpink;
   background-image: url(mondler.PNG);
   background-position: center;
-  background-size: cover;
+  background-size: contain;
   background-repeat: no-repeat;
   background-clip: border-box;
   background-attachment: fixed;
   padding: 30px;
+  width: 100%;
 }
 
 h1 {
